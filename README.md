@@ -1,3 +1,4 @@
-## Algorithm
+## Algorithm 💡
+
 
 ---
